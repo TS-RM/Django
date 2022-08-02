@@ -20,7 +20,7 @@ System Image:
 ## Next Goals
 [ ] Add User Profile.\
 [ ] Change User model Fields.\
-[ ] Create Our costum User Model.\
+[ ] Create Our costum User Model.
 ### Sources
 <https://realpython.com/django-user-management/>
 
